@@ -1,0 +1,2 @@
+# cookie-storage
+为了让多个Service读写cookie而不溢出，使用localStorage代替cookie存储
